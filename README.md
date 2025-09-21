@@ -6,7 +6,7 @@
     <title>Environmental Awareness</title>
     <style>
         body {
-            text-align: center; /* Center all content */
+            text-align: center; 
             font-family: Arial, sans-serif;
         }
         h1 {
@@ -17,7 +17,7 @@
             margin-top: 30px;
         }
         table {
-            margin: 0 auto 20px auto; /* Center the table */
+            margin: 0 auto 20px auto;
             border-collapse: collapse;
             width: 60%;
         }
@@ -31,6 +31,7 @@
     </style>
 </head>
 <body>
+    <img src="tree.jpeg" alt="Environmental Awareness" style="height:70px; margin-left:10px;">
     <h1>Environmental Awareness</h1>
 
     <h2>1. Reduce Pollution</h2>
@@ -62,17 +63,6 @@
         <tr><td>Say no to single-use plastic bottles.</td></tr>
         <tr><td>Recycle plastic wherever possible.</td></tr>
     </table>
-
-    <h2>4. Energy Conservation</h2>
-    <table>
-        <tr>
-            <th>Action</th>
-        </tr>
-        <tr><td>Switch off lights and fans when not needed.</td></tr>
-        <tr><td>Use energy-efficient appliances.</td></tr>
-        <tr><td>Opt for renewable energy sources like solar.</td></tr>
-    </table>
-
     <h2>5. Awareness & Education</h2>
     <table>
         <tr>
@@ -84,3 +74,4 @@
     </table>
 </body>
 </html>
+
